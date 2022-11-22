@@ -42,9 +42,9 @@ Secret Sudoku is a fully functional Sudoku game app, however with a secret funct
 
 ## ERDs/Wireframing
 
-![ERD_Models] (Images/ERD_Models.pngls.png)
-![Sudoku] (Images/Sudoku.png)
-![Chat] (Images/Chat.png)
+![](Images/ERD_Models.pngls.png)
+![](Images/Sudoku.png)
+![](Images/Chat.png)
 
 
 ## Schedule
